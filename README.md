@@ -1,3 +1,5 @@
+*PS: Slider works best when being clicked on, rather than slid (haven't fixed this yet)* _emphasize_
+
 This interactive tool visualizes the hotspots of the world's innovative activity in the past 40 years. The proxy for innovation which is used here is the number of new patent counts. More precisely, the origin of both the inventor and if applicable, the holding company is scraped from the raw data, aggregated by year, geocoded and projected onto a world map. 
 The raw data originates from USPTO patent grant bibliographic data hosted by [Google](https://www.google.com/googlebooks/uspto-patents-grants-biblio.html).
 
